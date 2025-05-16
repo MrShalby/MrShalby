@@ -36,16 +36,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrShalby&show_icons=true&locale=en" alt="MrShalby" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrShalby&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrShalby&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrShalby" alt="MrShalby" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrShalby&layout=compact&theme=radical" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrShalby&layout=compact" alt="MrShalby" />
-</p>
 
 ---
 
