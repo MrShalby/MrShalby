@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hetang Madhu</h1>
 <h3 align="center">A passionate Computer Engineering student & web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourgithubusername" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrShalby&label=Profile%20views&color=0e75b6&style=flat" alt="MrShalby" /> </p>
 
 - 🔭 I’m currently working on **AI Powered Voice Assistant - "Nova"**
 
@@ -54,7 +54,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/hetang-madhu/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
   <a href="mailto:hetangmadhu18@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
-  <a href="https://HetangMadhu" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="30" width="30" /></a>
 </p>
 
 ---
