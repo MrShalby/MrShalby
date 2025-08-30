@@ -17,7 +17,7 @@ I'm a passionate Computer Engineering student with expertise in full-stack web d
 - 🔭 I'm currently working on: **Nova - An AI Powered Voice Assistant**
 - 🌱 I'm currently learning: **AWS Cloud Services & Advanced AI Concepts**
 - 👯 I'm looking to collaborate on: **Open-source projects and innovative web applications**
-- 💬 Ask me about: **Web Development, MERN Stack, or Java Programming**
+- 💬 Ask me about: **Web Development, MERN Stack, or Python Programming**
 - 📫 How to reach me: **hetangmadhu18@gmail.com**
 - 📄 Know about my experiences: [View My Resume](https://drive.google.com/file/d/1BzFuKyByrlg7jA1terR58KOBB5poUy8S/view?usp=sharing)
 - ⚡ Fun fact: **I love exploring new technologies and contributing to developer communities**
