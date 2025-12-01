@@ -61,28 +61,18 @@ I'm a passionate Computer Engineering student with expertise in full-stack web d
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats-mrshaby.vercel.app/api?username=MrShalby&show_icons=true&theme=radical&hide_border=true"
-    alt="MrShalby's GitHub Stats"
-    height="165"
-  />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-mrshaby.vercel.app/api?username=MrShalby&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="MrShalby's GitHub Stats" height="180"/>
 
-  <!-- GitHub Streak -->
-  <img
-    src="https://streak-stats.demolab.com?user=MrShalby&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-    height="165"
-  />
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=MrShalby&theme=radical&hide_border=true&border_radius=10" alt="MrShalby's Streak" height="180"/>
 
-  <br /><br />
+  <br/><br/>
 
   <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats-mrshaby.vercel.app/api/top-langs/?username=MrShalby&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages
+  <img src="https://github-readme-stats-mrshaby.vercel.app/api/top-langs/?username=MrShalby&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" height="180"/>
 
----
+</div>---
 
 ## 📫 Let's Connect
 
