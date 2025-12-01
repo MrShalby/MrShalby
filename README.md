@@ -59,20 +59,24 @@ I'm a passionate Computer Engineering student with expertise in full-stack web d
 ---
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-mrshaby.vercel.app/api?username=MrShalby&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="MrShalby's GitHub Stats" height="180"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MrShalby&show_icons=true&theme=radical&hide_border=true&border_radius=10&hide=issues" alt="MrShalby's GitHub Stats" height="180"/>
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=MrShalby&theme=radical&hide_border=true&border_radius=10" alt="MrShalby's Streak" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MrShalby&theme=radical&hide_border=true&border_radius=10" alt="MrShalby's Streak" height="180"/>
 
   <br/><br/>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-mrshaby.vercel.app/api/top-langs/?username=MrShalby&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrShalby&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" height="180"/>
 
-</div>---
+</div>
+
+
+---
 
 ## 📫 Let's Connect
 
