@@ -63,14 +63,14 @@ I'm a passionate Computer Engineering student with expertise in full-stack web d
 
   <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MrShalby&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-readme-stats-mrshaby.vercel.app/api?username=MrShalby&show_icons=true&theme=radical&hide_border=true"
     alt="MrShalby's GitHub Stats"
     height="165"
   />
 
   <!-- GitHub Streak -->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=MrShalby&theme=radical&hide_border=true"
+    src="https://streak-stats.demolab.com?user=MrShalby&theme=radical&hide_border=true"
     alt="GitHub Streak"
     height="165"
   />
@@ -79,13 +79,8 @@ I'm a passionate Computer Engineering student with expertise in full-stack web d
 
   <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrShalby&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages"
-    height="165"
-  />
-
-</div>
-
+    src="https://github-readme-stats-mrshaby.vercel.app/api/top-langs/?username=MrShalby&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages
 
 ---
 
