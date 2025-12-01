@@ -61,9 +61,7 @@ I'm a passionate Computer Engineering student with expertise in full-stack web d
 </div>
 
 <!-- Optional: Add trophies (always works) -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrShalby&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies" />
-</div>
+
 
 ---
 ## Let's Connect
