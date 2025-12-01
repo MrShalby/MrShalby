@@ -57,19 +57,35 @@ I'm a passionate Computer Engineering student with expertise in full-stack web d
 ![Cyber Security](https://img.shields.io/badge/Cyber_Security-FF6D00?style=for-the-badge&logo=securityscorecard&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=MrShalby&show_icons=true&theme=radical&hide_border=true" alt="Hetang's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrShalby&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrShalby&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-  
+
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MrShalby&show_icons=true&theme=radical&hide_border=true"
+    alt="MrShalby's GitHub Stats"
+    height="165"
+  />
+
+  <!-- GitHub Streak -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=MrShalby&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+    height="165"
+  />
+
+  <br /><br />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrShalby&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
+    height="165"
+  />
+
 </div>
+
 
 ---
 
