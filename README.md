@@ -51,19 +51,6 @@ I love building scalable products, experimenting with AI models, and creating vi
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MrShalby&theme=radical&hide_border=true&border_radius=10" height="180" alt="GitHub Streak" />
-
-  <br /><br />
-
-  <!-- Additional reliable stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrShalby&layout=compact&theme=radical&hide_border=true&border_radius=10" height="180" />
-</div>
-
----
 
 ## 🌐 Connect With Me
 
