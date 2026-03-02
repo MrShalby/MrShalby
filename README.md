@@ -21,7 +21,7 @@ I love building scalable products, experimenting with AI models, and creating vi
 - 🌱 Currently learning: **AWS Cloud • LangChain • LLMs • DevOps**  
 - 🤝 Looking to collaborate on: **AI Projects • MERN Apps • Open Source**  
 - 💬 Ask me about: **React, Node.js, Python, MongoDB, APIs**  
-- 📄 Resume: [View Here](https://drive.google.com/file/d/1BzFuKyByrlg7jA1terR58KOBB5poUy8S/view?usp=sharing)  
+- 📄 Resume: [View Here](https://drive.google.com/file/d/1O-hcQuxlXJcoKPbhtjTbloedpIpIowDm/view?usp=sharing)  
 - ⚡ Fun fact: I can debug code faster than I find matching socks 😴🧦  
 
 ---
