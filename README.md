@@ -26,6 +26,22 @@ I love building scalable products, experimenting with AI models, and creating vi
 
 ---
 
+## 🚀 Featured Projects
+
+🔹 **AI-Based Medical Diagnosis Assistant**  
+AI-powered healthcare assistant that analyzes symptoms and predicts possible diseases using machine learning techniques.
+
+🔹 **AI Job Hunting Agent**  
+Automated system that scans company career pages, matches jobs with your profile using LLMs, and sends alerts.
+
+🔹 **Nova – AI Voice Assistant**  
+An AI-powered voice assistant capable of handling commands and automating tasks using modern AI frameworks.
+
+🔹 **Luxury Jewelry Store (Next.js)**  
+High-end responsive jewelry website built with **Next.js, Tailwind CSS, and modern UI animations**.
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 ### **💻 Languages**
@@ -55,12 +71,16 @@ I love building scalable products, experimenting with AI models, and creating vi
 
 <div align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=MrShalby&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="180" alt="GitHub Stats" />
+
+  <br /><br />
+
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MrShalby&theme=radical&hide_border=true&border_radius=10" height="180" alt="GitHub Streak" />
 
   <br /><br />
 
-  <!-- Additional reliable stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrShalby&layout=compact&theme=radical&hide_border=true&border_radius=10" height="180" />
+
 </div>
 
 ---
@@ -78,6 +98,12 @@ I love building scalable products, experimenting with AI models, and creating vi
     <img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrShalby&theme=react-dark&hide_border=true" />
+</div>
 
 ---
 
