@@ -52,7 +52,7 @@ My approach combines technical excellence with creative problem-solving, allowin
 - 🤝 **Open to**: Collaboration on AI/ML projects, open-source contributions, scaling MERN applications
 - 🎯 **Focus Areas**: Full-Stack Development, Cloud Solutions, ML Integration, System Design
 - 💬 **Expertise**: React, Node.js, Python, MongoDB, PostgreSQL, REST APIs, Microservices
-- ⚡ **Fun Fact**: I debug code faster than I find matching socks 😴🧦
+- ⚡ **Fun Fact**: I often use AI to prototype ideas and turn them into real software. 😴
 
 ---
 
@@ -61,7 +61,7 @@ My approach combines technical excellence with creative problem-solving, allowin
 <div align="center">
 
 ### 🔤 Programming Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -77,8 +77,8 @@ My approach combines technical excellence with creative problem-solving, allowin
 
 ### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%2300758F.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST-%23ff1709.svg?style=for-the-badge)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -92,7 +92,7 @@ My approach combines technical excellence with creative problem-solving, allowin
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🤖 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AI Search](https://img.shields.io/badge/RAG-AI%20Search%20Systems-indigo?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-%23239120.svg?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logoColor=white)
 
@@ -106,7 +106,7 @@ My approach combines technical excellence with creative problem-solving, allowin
 |---------|-------------|-----------|--------|
 | **Nova** | AI-Powered Voice Assistant with NLP capabilities | Python, LangChain, TensorFlow, FastAPI | 🔄 In Progress |
 | **Shalby Jewels** | Luxury e-commerce platform for jewelry | Next.js, React, Tailwind CSS, MongoDB | ✅ Deployed |
-| **MERN Dashboard** | Full-stack analytics dashboard | React, Node.js, Express, MongoDB | ✅ Completed |
+| **AI Job Hunter** | AI-powered job discovery system that scans company  and sends matched job alerts automatically | Python, Playwright, Groq LLM, Resume Parsing, Web Scraping, Automation | ✅ Completed |
 
 ---
 
@@ -126,16 +126,6 @@ My approach combines technical excellence with creative problem-solving, allowin
 
 ---
 
-## 🎓 Goals & Aspirations
-
-- 🚀 **Build scalable AI-powered products** that make a real-world impact
-- 📚 **Master cloud architecture** and become AWS certified
-- 🏆 **Contribute to open-source** projects and grow the developer community
-- 💼 **Transition to full-time** software engineering role at innovative tech company
-- 🌍 **Mentor aspiring developers** and share knowledge through blogs and workshops
-- 🤖 **Explore advanced AI/ML** applications in web development and automation
-
----
 
 ## 📫 Let's Connect & Collaborate
 
@@ -158,21 +148,6 @@ My approach combines technical excellence with creative problem-solving, allowin
 
 ---
 
-## 💬 Fun Facts About Me
-
-<div align="center">
-
-| 🎨 | I believe great code is like writing poetry—it should be elegant, readable, and purposeful |
-|----|----|
-| ⚡ | I debug code faster than I find matching socks 😴🧦 |
-| 🎮 | When not coding, I enjoy exploring new tech trends and gaming |
-| 🌱 | I'm a continuous learner—my to-learn list grows faster than my completed projects |
-| 🎯 | I'm passionate about building products that solve real problems for real people |
-
-</div>
-
----
-
 <div align="center">
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
@@ -184,10 +159,9 @@ My approach combines technical excellence with creative problem-solving, allowin
   </p>
 
   <p>
-    <em>Last updated: March 2025</em><br />
+    <br />
     <strong>Made with ❤️ & ☕ by <a href="https://github.com/MrShalby">Hetang Madhu</a></strong>
   </p>
 
-  <img src="https://img.shields.io/badge/Status-Available%20For%20Opportunities-success?style=flat-square&logo=openbsd&logoColor=white" alt="Status" />
 
 </div>
